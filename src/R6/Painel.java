@@ -11,6 +11,6 @@ public class Painel{
         double OldADS =50;
         double VerticalFOV =20;
         double AspectRatio = (4/3);
-        new Execute().executar(VerticalFOV,AspectRatio,OldADS);
+        System.out.println(new Execute().executar(VerticalFOV,AspectRatio,OldADS));;
     }
 }
