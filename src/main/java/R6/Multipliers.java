@@ -6,10 +6,10 @@ import java.util.List;
 public class Multipliers
 {
     //FOV multiplier
-    public static List<Double> FOV_X = new ArrayList<>();
+    public static List<Double> FOV_X = new ArrayList();
 
     //ADS multiplier
-    public static List<Double> ADS_X = new ArrayList<>();
+    public static List<Double> ADS_X = new ArrayList();
 
     public Multipliers() {
         FOV_X.add(0.9);
