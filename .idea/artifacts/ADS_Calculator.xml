@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ADS-Calculator">
+    <output-path>$PROJECT_DIR$/out/artifacts/ADS_Calculator</output-path>
+    <root id="archive" name="ADS-Calculator.jar" />
+  </artifact>
+</component>
